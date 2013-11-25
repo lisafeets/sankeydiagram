@@ -1,0 +1,19 @@
+{
+"links":
+[
+{"source":"Sex Start","target":"Rack Pose","value":2},
+{"source":"Sex Start","target":"Display Chest","value":3},
+{"source":"Rack Pose","target":"Rocking","value":2},
+{"source":"Display Chest","target":"Head Shake","value":1},
+{"source":"Display Chest","target":"Rocking","value":2}
+],
+
+"nodes":
+[
+{"name":"Sex Start"},
+{"name":"Rack Pose"},
+{"name":"Display Chest"},
+{"name":"Rocking"},
+{"name":"Head Shake"}
+]
+}
